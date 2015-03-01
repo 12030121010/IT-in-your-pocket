@@ -1,0 +1,5 @@
+C:\Users\Madhura Borwankar\AndroidStudioProjects\IT_IN_POCKET2\app\build\intermediates\classes\debug
+C:\Users\Madhura Borwankar\AndroidStudioProjects\IT_IN_POCKET2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cbfbf61defc73ff2ff8c9466fe33ce1f9a808ac8.jar
+C:\Users\Madhura Borwankar\AndroidStudioProjects\IT_IN_POCKET2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ea68828a91e993cfc06b59cb08e3e7ed9a06d4ea.jar
+C:\Users\Madhura Borwankar\AndroidStudioProjects\IT_IN_POCKET2\app\build\intermediates\pre-dexed\debug\classes-88ab48e1d1d4d17108ac27a274dafe2c10b79b79.jar
+C:\Users\Madhura Borwankar\AndroidStudioProjects\IT_IN_POCKET2\app\build\intermediates\pre-dexed\debug\classes-32fa7f5f4777adc7f31c8d10edf17cddbc7cafad.jar
